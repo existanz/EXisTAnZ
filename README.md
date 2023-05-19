@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EXisTAnZ
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on blockchain
 - 📫 How to reach me ...
 

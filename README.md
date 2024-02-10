@@ -19,7 +19,7 @@
 <img width=48px title="rxjs" alt="rxjs" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png"/>&nbsp;
 <img width=48px title="NGRX" alt="NGRX" src="https://ngrx.io/assets/images/badge.svg"/>&nbsp;
 <img width=48px title="NodeJS" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>&nbsp;
-<img width=48px title="NestJS" alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>&nbsp;
+<img width=48px title="NestJS" alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg"/>&nbsp;
 <img width=48px title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>&nbsp;
 <img width=48px title="MS SQL" alt="MS SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>&nbsp;
 #### Ingush: native, Russian: perfect, English: Upper intermediate

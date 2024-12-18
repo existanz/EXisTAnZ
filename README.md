@@ -9,7 +9,7 @@
 <a href="https://leetcode.com/existanz" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/leetcode-dimgrey?logo=leetcode"></a>
 
 ## Languages and technologies:
-<img width=48px title="Go" alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
+<img width=48px title="Go" alt="Golang" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>&nbsp;
 <img width=48px title="JavaScript" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;
 <img width=48px title="TypeScript" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;
 <img width=48px title="HTML" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;
